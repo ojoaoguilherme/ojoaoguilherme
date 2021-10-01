@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack...
 
-#### Seja bem vindo(a) ao meu perfil do Github, estou construindo aos poucos mas já já fica pronto :smile:
+#### Seja bem vindo(a) ao meu perfil do Github, estou construindo aos poucos, mas já já fica pronto :smile:
 
 <div>
   <a href="https://github.com/ojoaoguilherme">
