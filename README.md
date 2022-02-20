@@ -15,7 +15,9 @@
 </div>
 
 <br>
+
 ## Programming languages and seriveces I like to work with
+
 <br>
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
@@ -40,7 +42,9 @@
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 
 <br>
+
 ## What I am currently learning
+
 <br>
 
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) 
@@ -52,7 +56,9 @@
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
 
 <br>
+
 ## Blockchains I like working with
+
 <br>
  
 ![](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) 
