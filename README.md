@@ -3,8 +3,8 @@
 ### I'am a Full Stack Blockchain Developer.
 
 ### Welcome to my repo :smile:
-### Portfolio: <a href="https://portfolio-ojoaoguilherme.vercel.app/">Get to see what I am building</a>
-### Currently, I am studying a lot of blockchain technologies and trying to enroll in a position related to blockchain developing, cryptocurrency finances etc. So if you have any intent of building any Dapp or a project related to blockchain contact me I would love to know about it and see what I could contribute.
+### Portfolio: <a href="https://portfolio-ojoaoguilherme.vercel.app/">See what I have done</a>
+### Currently, I am studying a lot of blockchain technologies and contribuiting to a tokenization project called <a href="https://www.rotasdogarimpo.com/">Rotas do Garimpo</a> and I'am also trying to enroll in a position related to blockchain development. So if you have any intent of building any dApp or a project related to blockchain contact me, I would love to know more about it and see what I can help out!
 
 <div>
   <a href="https://github.com/ojoaoguilherme">
