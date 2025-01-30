@@ -49,7 +49,7 @@ Tech executive with a passion for building scalable solutions and leading high-p
 
 ## 🤝 Let's Connect
 
-- 🌐 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jo%C3%A3o-guilherme-pinheiro-447823186/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-guilherme-pinheiro-447823186)
 - 📧 [Email](mailto:joao.pinheiro@topmidiatecnologia.com)
 
 ## 💡 Current Focus
