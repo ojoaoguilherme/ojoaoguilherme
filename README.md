@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 Tech executive with a passion for building scalable solutions and leading high-performance teams. Currently serving as:
-- 🏢 CTO at Neoki | Top Midia Technologies | Neutral Carbon | RDG Eco Finance
-- 💼 Tech Lead at 4+ Ventures
+- 🏢 CTO at [Neoki](https://www.neoki.io) | [Top Midia Technology](https://www.topmidiatecnologia.com/) | [Neutral Carbon](https://carbononeutro.app/) | [RDG Eco Finance](https://www.rdgecofinance.com/)
+- 💼 Tech Lead at [4+ Ventures](https://www.4plusventures.com/)
 
 ## 💻 Technical Expertise
 
