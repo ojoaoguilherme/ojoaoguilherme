@@ -11,8 +11,7 @@
 ## 🚀 About Me
 
 Tech executive with a passion for building scalable solutions and leading high-performance teams. Currently serving as:
-- 🏢 CTO at [Neoki](https://www.neoki.io) | [Top Midia Technology](https://www.topmidiatecnologia.com/) | [RDG Eco Finance](https://www.rdgecofinance.com/) | [Rotas do Garimpo](https://rotasdogarimpo.com)
-- 💼 Head of Engineering at [4+ Ventures](https://www.4plusventures.com/)
+- 💼 Head of Engineering at [4+ Ventures](https://www.4plusventures.com/) | [Top Midia Technology](https://www.topmidiatecnologia.com/) | [RDG Eco Finance](https://www.rdgecofinance.com/) | [Rotas do Garimpo](https://rotasdogarimpo.com)
 
 ## 💻 Technical Expertise
 
